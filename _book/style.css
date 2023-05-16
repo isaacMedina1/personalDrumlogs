@@ -9,8 +9,8 @@ body{
   letter-spacing: .06rem;
   text-rendering: optimizeLegibility;
   margin-top: 1.333em;
-  margin-left: 3.333em;
-  margin-right: 3.333em;
+  margin-left: 1.333em;
+  margin-right: 1.333em;
 }
 
 p.caption {
@@ -70,12 +70,12 @@ a:hover {
 
 /*to do: change this setting only on medium and small sizes*/
 #main-nav {
-  background-color: #212C33;
+  background-color: #0E1316;
   color: #FAFAFA;
 }
 
 ul.book-toc a {
-  background-color: #212C33;
+  background-color: #0E1316;
   color: #FAFAFA;
 }
 
