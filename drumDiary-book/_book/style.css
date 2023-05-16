@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200;0,6..72,300;1,6..72,300&display=swap');
+
+body{
+  background: #0E1316;
+  color: #FAFAFA;
+  font-family:"Newsreader", serif;
+  font-size: 1.1rem;
+  line-height: 1.8rem;
+  letter-spacing: .06rem;
+  text-rendering: optimizeLegibility;
+  margin-top: 1.333em;
+  margin-left: 3.333em;
+  margin-right: 3.333em;
+}
+
+p.caption {
+  color: #0E1316;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+::selection{
+  color: #0E1316;
+  background-color: #FAFAFA;
+}
+
+a {
+  background-color: #0E1316;
+  color: #FAFAFA;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+a:hover {
+  background-color: #0E1316;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+/*to do: find the class to update background*/
+.nav a.nav-link.active{
+  color: #0E1316;
+}
+
+.btn-outline-primary {
+  color: #FAFAFA;
+  border-color: #FAFAFA;
+  background-color: transparent;
+}
+
+.btn:hover {
+  color: #0E1316;
+  background-color: #FAFAFA;
+  text-decoration: none;
+}
+
+.btn {
+  color: #FAFAFA;
+  transition: color 0.15s ease-in-out,background-color 0.15s ease-in-out,border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
+}
+
+/*to do: change this setting only on medium and small sizes*/
+#main-nav {
+  background-color: #212C33;
+  color: #FAFAFA;
+}
+
+ul.book-toc a {
+  background-color: #212C33;
+  color: #FAFAFA;
+}
+
+#book-repo {
+  background-color: #212C33;
+  color: #FAFAFA;
+  display: none;
+}
+
+.book-extra{
+  display: none;
+}
+
+/*anchor 'bookdown' does not work but cannot disappear beacause of an '!important' setting coming from template, find a way or remove it manually when publishing*/
+footer div * {
+  color: #0E1316 !important;
+  user-select: none;
+  text-decoration: none;
+  pointer-events: none;
+}
+
+#algolia-autocomplete-listbox-0{
+  background-color: #212C33;
+  color: #FAFAFA;
+}
+
+#algolia-autocomplete-listbox-0 .aa-cursor{
+  background-color: #0E1316;
+}
+
+mark {
+background: linear-gradient(-100deg, hsl(203.5, 16.5%, 27.3%), hsl(0, 1.4%, 57.8%) 95%, hsl(0, 2.8%, 51.2%) );
+  color: #FAFAFA;
+}
