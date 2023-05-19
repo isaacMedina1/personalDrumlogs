@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200;0,6..72,300;1,6..72,300&display=swap');
 
-body{
+body {
   background: #0E1316;
   color: #FAFAFA;
   font-family:"Newsreader", serif;
@@ -17,18 +17,24 @@ p.caption {
   color: #0E1316;
   margin-top: 10px;
 }
+
 p code {
   white-space: inherit;
 }
+
 pre {
+  background: #112633;
+  color: #FAFAFA;
+  border: none;
   word-break: normal;
   word-wrap: normal;
 }
+
 pre code {
   white-space: inherit;
 }
 
-::selection{
+::selection {
   color: #0E1316;
   background-color: #FAFAFA;
 }
@@ -47,7 +53,7 @@ a:hover {
 }
 
 /*to do: find the class to update background*/
-.nav a.nav-link.active{
+.nav a.nav-link.active {
   color: #0E1316;
 }
 
@@ -85,7 +91,7 @@ ul.book-toc a {
   display: none;
 }
 
-.book-extra{
+.book-extra {
   display: none;
 }
 
@@ -97,12 +103,12 @@ footer div * {
   pointer-events: none;
 }
 
-#algolia-autocomplete-listbox-0{
+#algolia-autocomplete-listbox-0 {
   background-color: #212C33;
   color: #FAFAFA;
 }
 
-#algolia-autocomplete-listbox-0 .aa-cursor{
+#algolia-autocomplete-listbox-0 .aa-cursor {
   background-color: #0E1316;
 }
 
@@ -111,7 +117,8 @@ background: linear-gradient(-100deg, hsl(203.5, 16.5%, 27.3%), hsl(0, 1.4%, 57.8
   color: #FAFAFA;
 }
 
-code{
+code {
   background-color: #112633;
   color: #FAFAFA;
 }
+
