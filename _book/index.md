@@ -13,10 +13,12 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# Welcome {-}
+# Yes, I'm a Drummer {-}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu non odio euismod lacinia at quis risus sed. Cras adipiscing enim eu turpis egestas. Nunc sed blandit libero volutpat sed cras ornare arcu. Et netus et malesuada fames ac turpis egestas. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum. Tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse. Elementum facilisis leo vel fringilla est ullamcorper eget. Ut tellus elementum sagittis vitae et leo. In tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Sed adipiscing diam donec adipiscing. Erat velit scelerisque in dictum non consectetur.
+And this is my [Diary]. Well, sort of, mainly because there are times when logs just don't make it till here. Anyways, this webpage is an effort to keep you up to date on what i'm up to regarding drums and also a timeline to help me remember where i've been and my interests from day to day. 
 
-Et ultrices neque ornare aenean euismod elementum nisi. Egestas erat imperdiet sed euismod nisi porta lorem mollis. A arcu cursus vitae congue mauris rhoncus aenean vel elit. Scelerisque purus semper eget duis at tellus. Facilisi cras fermentum odio eu feugiat pretium nibh. Nec ultrices dui sapien eget. Urna cursus eget nunc scelerisque viverra mauris in aliquam. Enim nunc faucibus a pellentesque. Commodo elit at imperdiet dui accumsan sit amet. Cursus metus aliquam eleifend mi in nulla posuere. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Sapien et ligula ullamcorper malesuada. Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant. A lacus vestibulum sed arcu. Ultrices in iaculis nunc sed augue lacus viverra. Semper quis lectus nulla at.
+Yes, I'm a Drummer but also teacher, synth freak, artist, friend, lover and son, that's why things here are personal, though at times it all may seem very technical. That's an advice to you while also a note for me, because the way i do things will probably not apply to many out there and won't necessarily make you/me the fastest, heaviest or even funkiest drummer, the activities recorded here are just a way of being.
 
-Ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Viverra justo nec ultrices dui sapien eget. Feugiat vivamus at augue eget. Velit aliquet sagittis id consectetur purus ut faucibus. Fames ac turpis egestas integer eget aliquet nibh praesent. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Eget egestas purus viverra accumsan in nisl nisi. Facilisi cras fermentum odio eu feugiat pretium. Ultrices sagittis orci a scelerisque purus semper eget duis at. Tellus pellentesque eu tincidunt tortor.
+Be very welcomed into this digital book, refer to _How do i read this?_ to find further information on rhythms written with words or code, and click on _About_ to check out my short Bio and contact links. Have a pleasant day!
+
+Isaac Medina
