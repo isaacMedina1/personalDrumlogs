@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.26)  19 MAY 2023 21:44
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.26)  21 MAY 2023 12:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -872,15 +872,20 @@ Overfull \hbox (180.0pt too wide) in paragraph at lines 282--282
 2 !style=x!E,,A,, !style=x!E,,2 A,,2 :|[] 
  []
 
+[11] [12
+
+]
+Kapitel 2.
+[13]
 No file Drumlogs.bbl.
-[11] (./Drumlogs.aux) ) 
+[14] (./Drumlogs.aux) ) 
 Here is how much of TeX's memory you used:
- 19697 strings out of 477696
- 363708 string characters out of 5841667
- 846790 words of memory out of 5000000
- 40074 multiletter control sequences out of 15000+600000
+ 19705 strings out of 477696
+ 363790 string characters out of 5841667
+ 846942 words of memory out of 5000000
+ 40082 multiletter control sequences out of 15000+600000
  475710 words of font info for 81 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  86i,6n,121p,1005b,373s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Drumlogs.pdf (11 pages).
+Output written on Drumlogs.pdf (14 pages).
