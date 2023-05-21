@@ -5,7 +5,7 @@ Express rhythm {#Express-rhythm}
 
 ## The count {-}
 
-Though there are many counting systems for drums, the one i prefer and teach is the _1 e & a_, where such a grouping means four sixteenth notes on beat one. Beats are easy to follow in this manner, because they always carry the number we are at, for example _2 e & a_, is the same grouping as before but on beat _2_.
+Though there are many counting systems for drums, the one i prefer and teach is the _1 e & a_, where such a grouping means four sixteenth notes on beat _1_. Beats are easy to follow in this manner, because they always carry the number we are at, for example _2 e & a_, is the same grouping as before but on beat _2_.
 
 From here one can find other subdivisions by just looking with attention, _#_ are notes on beat, _&_ are notes off-beat, _e_ and _a_ are sixteenth notes between beat and off-beat. It gets easier if one draws a table:
 
