@@ -3,7 +3,7 @@ bookdown::bs4_book:
   css: style.css
   theme:
     primary: "#0E1316"
-  repo: https://github.com/isaacMedina1/DaF-Buch
+  repo: https://github.com/isaacMedina1/personalDrumlogs
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
