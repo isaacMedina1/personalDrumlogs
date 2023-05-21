@@ -20,7 +20,7 @@ There are many books and videos that cover the topic, so my explanation here sho
 
 ## Mini-notation {-}
 
-Not even close in popularity to the _1 e & a_ count, this form comes from my experience with livecoding using **[TidalCycles](https://tidalcycles.org/)**. It is used to write patterns of notes, samples and parametters for cycling sequences. Though it's vocabulary is broader than other systems, i normally just use some of its rules when taking notes. Here is a table:
+Not even close in popularity to the _1 e & a_ count, this form comes from my experience with livecoding using **[TidalCycles](https://tidalcycles.org/)**. It is used to write patterns of notes, samples and parameters for cycling sequences. Though it's vocabulary is broader than other systems, i normally just use some of its rules when taking notes. Here is a table:
 
 | Symbol | Description                    |
 | ------ | ------------------------------ |
