@@ -5,6 +5,8 @@ Diary {#Diary}
 
 ## Mai 2023 {-}
 
+So 21. _Drum Techniques of Led Zeppelin_, Stairway to Heaven, bar 50 @ 60 BPM, then lecture till bar 50 @ 88 BPM. _Drumathics_ publication of _Gunga Din, The Libertines_. _Drumlogs_, website update, chapter 2, Express rhythm.
+
 Do 18. _Drum Techniques of Led Zeppelin_, Stairway to Heaven, bar 50 @ 60, 65, 70, 75, 80, 85, 90 BPM. `s*3 e y s*3 . 2 e s*3 a . 3 s*3 y a . 4 s ta y s ta`.
 
 Mo 15. _The Breakbeat Bible, E3 Two 16th Notes in a Row on the Snare: 8-Bar Phrase_, one bar, two bars and four bar combinations within the same structure @ 98 BPM.  **30 min** Also Bar 2 & 5 with Swing Pattern @ 98 BPM. **5 min**
