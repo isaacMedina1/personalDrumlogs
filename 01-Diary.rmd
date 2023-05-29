@@ -5,6 +5,10 @@ Diary {#Diary}
 
 ## Mai 2023 {-}
 
+Mo 29. _The All American Drummer_, Solo 14 @ 50 and 60 BPM.
+
+Do 25. _The Breakbeat Bible, E6 Syncopated Accents on the Snare_, Beats 1-13 on lap.  
+
 So 21. _Drum Techniques of Led Zeppelin_, Stairway to Heaven, bar 50 @ 60 BPM, then lecture till bar 50 @ 88 BPM. _Drumathics_ publication of _Gunga Din, The Libertines_. _Drumlogs_, website update, chapter 2, Express rhythm.
 
 Do 18. _Drum Techniques of Led Zeppelin_, Stairway to Heaven, bar 50 @ 60, 65, 70, 75, 80, 85, 90 BPM. `s*3 e y s*3 . 2 e s*3 a . 3 s*3 y a . 4 s ta y s ta`.
