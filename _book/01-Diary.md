@@ -5,7 +5,7 @@ Diary {#Diary}
 
 ## Mai 2023 {-}
 
-Mo 29. _The All American Drummer_, Solo 14 @ 50 and 60 BPM.
+Mo 29. _The All American Drummer_, Solo 14 @ 50 and 60 BPM. _Take Me Out, Franz Ferdinand_, weiter bearbeitet, decided to use ligatures for open Hi-Hats as it is more explicit and _+_ markings can't be placed over silences.
 
 Do 25. _The Breakbeat Bible, E6 Syncopated Accents on the Snare_, Beats 1-13 on lap.  
 
