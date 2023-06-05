@@ -50,6 +50,10 @@ a {
   text-decoration: underline;
 }
 
+#Express-rhythm a{
+  text-decoration: underline;
+}
+
 #About a{
   text-decoration: underline;
 }
@@ -102,7 +106,6 @@ ul.book-toc a {
 .book-extra {
   display: none;
 }
-
 
 footer div * {
   color: #0E1316 !important;
