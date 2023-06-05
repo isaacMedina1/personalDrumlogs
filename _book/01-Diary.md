@@ -164,15 +164,7 @@ Mi 12. _Alfabeto, Gepe_, should I use a 5-stroke roll or will a drag suffice? //
 
 Di 11. _Advanced Techniques for the Modern Drummer, Section I Part B Eights_, ex 1-3; ex 4-7 (100-120 BPM); ex 4 w/Rumba Ostinato (100-120 BPM), right hand quarter notes + left hand orchestration. _16th note bass drum groove improvisation_, left hand 16ths + accents on beats 2 & 4, right hand 8ths. **2h 30min**. 
 
-```music-abc 
-X: 1
-V: A1 clef=bass
-V: B1 clef=bass
-L:1/8
-K:C
-M: C
-[V: A1]z2 E,E, z2 E,E, | z2 E,E, z2 E,E, :|
-[V: B1]!style=x!E,,3 [!style=x!E,,A,,] z2 A,,!style=x!E,, | z2 !style=x!E,,A,, !style=x!E,,2 A,,2 :|
-```
+::: {#paper}
+:::
 
 ---
