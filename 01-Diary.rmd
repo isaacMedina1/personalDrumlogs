@@ -3,6 +3,12 @@ Diary {#Diary}
 
 ---
 
+## Juni 2023 {-}
+
+So 04. _The Breakbeat Bible, E6: Syncopated Accents on the Snare_, ex 1-4 with inverted doubles. _Improv_.  **40 min**
+
+Fr 02. _Paradiddle Johnnie_, bars 1-16, shuffle feel, accents reinforced on Bassdrum, sticks and brushes. 
+
 ## Mai 2023 {-}
 
 Mo 29. _The All American Drummer_, Solo 14 @ 50 and 60 BPM. _Take Me Out, Franz Ferdinand_, weiter bearbeitet, decided to use ligatures for open Hi-Hats as it is more explicit and _+_ markings can't be placed over silences.
@@ -15,7 +21,7 @@ Do 18. _Drum Techniques of Led Zeppelin_, Stairway to Heaven, bar 50 @ 60, 65, 7
 
 Mo 15. _The Breakbeat Bible, E3 Two 16th Notes in a Row on the Snare: 8-Bar Phrase_, one bar, two bars and four bar combinations within the same structure @ 98 BPM.  **30 min** Also Bar 2 & 5 with Swing Pattern @ 98 BPM. **5 min**
 
-Sa 13. _The Breakbeat Bible_, _E1_ Single 16th Note Subdivisions in the Snare: Beats (p.11), _E2_ Single 16th-Note Subdivisions on the Kick: Beats (p.18), _E3_ Two 16th Notes in a Row in the Snare: Beats (p.34), _e4_ Two 16th Notes in a Row on the Kick: Beats (p.43). **30 min**
+Sa 13. _The Breakbeat Bible_, _E1_ Single 16th Note Subdivisions in the Snare: Beats (p.11), _E2_ Single 16th-Note Subdivisions on the Kick: Beats (p.18), _E3_ Two 16th Notes in a Row in the Snare: Beats (p.34), _E4_ Two 16th Notes in a Row on the Kick: Beats (p.43). **30 min**
 
 Sa 06. _Don't Speak, No Doubt_, _This Love, Maroon 5_, active listening, main grooves. 
 
