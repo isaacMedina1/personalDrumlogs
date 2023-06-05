@@ -19,6 +19,6 @@ And this is my [Diary]. Well, sort of, mainly because there are times when logs 
 
 Yes, i'm a drummer but also teacher, synth freak, artist, friend, lover and son, that's why things here are personal, though at times it all may seem very technical. That's an advice to you while also a note for me, because the way i do things will probably not apply to many out there and won't necessarily make you/me the fastest, heaviest or even funkiest drummer, the activities recorded here are just a way of being.
 
-Be very welcomed into this digital book, refer to [Express rhythm](#Express-rhythm) to find further information on rhythms written with words or code, and click on _About_ to check out my short bio and contact links. Have a pleasant day!
+Be very welcomed into this digital book, refer to [Express rhythm](#Express-rhythm) to find further information on rhythms written with words or code, and click on [About] to check out my short bio and contact links. Have a pleasant day!
 
 Isaac Medina
