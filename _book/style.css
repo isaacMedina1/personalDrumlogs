@@ -46,6 +46,14 @@ a {
   transition: color 0.5s;
 }
 
+#yes-im-a-drummer a{
+  text-decoration: underline;
+}
+
+#About a{
+  text-decoration: underline;
+}
+
 a:hover {
   background-color: #0E1316;
   color: #FFFFFF;
@@ -95,12 +103,17 @@ ul.book-toc a {
   display: none;
 }
 
-/*anchor 'bookdown' does not work but cannot disappear beacause of an '!important' setting coming from template, find a way or remove it manually when publishing*/
+
 footer div * {
   color: #0E1316 !important;
   user-select: none;
   text-decoration: none;
   pointer-events: none;
+}
+
+/*anchor 'bookdown' does not work but cannot disappear beacause of an '!important' setting coming from template, this works now:*/
+.text-light {
+  color: #0E1316 !important;
 }
 
 #algolia-autocomplete-listbox-0 {
