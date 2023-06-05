@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.26)  4 JUN 2023 22:58
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.26)  4 JUN 2023 23:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -851,13 +851,13 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 [3] [4
 
 ]
-File: images/flowerBrush.jpeg Graphic file (type bmp)
-<images/flowerBrush.jpeg>
-[5] [6
-
-]
+File: images/flowerBrush1.jpeg Graphic file (type bmp)
+<images/flowerBrush1.jpeg>
+[5] [6]
 Kapitel 1.
-[7] [8] [9] [10]
+[7
+
+] [8] [9] [10]
 Overfull \hbox (290.25pt too wide) in paragraph at lines 279--279
 []\TU/lmtt/m/n/10 [V: A1] E,E,E,E, E,E,E,E, (3E,E,E, (3E,E,E, (3E,E,E, (3E,E,E,
  | E,E,E,E, (3E,E,E, (3E,E,E,  E,E,E,E, (3E,E,E, (3E,E,E, :|[] 
@@ -887,7 +887,7 @@ No file Drumlogs.bbl.
 ] (./Drumlogs.aux) ) 
 Here is how much of TeX's memory you used:
  19747 strings out of 477696
- 364571 string characters out of 5841667
+ 364597 string characters out of 5841667
  848106 words of memory out of 5000000
  40113 multiletter control sequences out of 15000+600000
  475710 words of font info for 81 fonts, out of 8000000 for 9000

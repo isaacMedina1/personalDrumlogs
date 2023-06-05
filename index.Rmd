@@ -15,8 +15,8 @@ github-repo: rstudio/bookdown-demo
 
 # Yes, i'm a drummer {-}
 
-```{r pressure, echo=FALSE, out.width = '20%'}
-knitr::include_graphics("images/flowerBrush.jpeg")
+```{r flowers, echo=FALSE, out.width = '60%'}
+knitr::include_graphics("images/flowerBrush1.jpeg")
 ```
 
 

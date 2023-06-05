@@ -15,7 +15,7 @@ github-repo: rstudio/bookdown-demo
 
 # Yes, i'm a drummer {-}
 
-<img src="images/flowerBrush.jpeg" width="20%" />
+<img src="images/flowerBrush1.jpeg" width="60%" />
 
 
 And this is my [Diary]. Well, sort of, mainly because there are times when logs just don't make it till here. Anyways, this webpage is an effort to keep you up to date on what i'm up to regarding drums and also a timeline to help me remember where i've been and my interests from day to day. 
