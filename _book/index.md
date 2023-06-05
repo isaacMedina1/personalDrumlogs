@@ -5,8 +5,8 @@ date: "2023-06-04"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
+url: "https://drumlogs.netlify.app/index.html"
+cover-image: "images/flowerBrush1.jpeg"
 description: |
   Drumlogs is written with bookdown package.
 link-citations: yes
