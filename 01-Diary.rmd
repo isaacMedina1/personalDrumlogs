@@ -146,15 +146,8 @@ Mo 17. _Jon Beavis: War, Never Fight A Man With A Perm_. Which cymbals?, when th
 
 Sa 15. _Rudiments_, Paradiddle + Paraparadidle, 2 bars exercise (2 groups of 16th notes + 2 groups of 16th note triplets + 1 group after another), 60-68 (increments by 2 every 3 minutes), 5 min rest, 70-80 BPM (increments by 2 every 2 minutes). Band rehearsal.
 
-```music-abc 
-X: 2
-V: A1 clef=bass
-L:1/16
-K:C
-M: C 
-[V: A1] E,E,E,E, E,E,E,E, (3E,E,E, (3E,E,E, (3E,E,E, (3E,E,E, | E,E,E,E, (3E,E,E, (3E,E,E,  E,E,E,E, (3E,E,E, (3E,E,E, :|
-w: R L R R L R L L R L R L R R L R L R L L | R L R R L R L R L L R L R R L R L R L L 
-```
+::: {#okt152022}
+:::
 
 Fr 14. _Rudiments_, Paradiddle + Paraparadidle, 1 bar exercise (2 groups of 16th notes + 2 groups of 16th note triplets), 80 BPM & 60 BPM, Hi-Hat on quarters and eights. **15 min**.
 
@@ -164,7 +157,7 @@ Mi 12. _Alfabeto, Gepe_, should I use a 5-stroke roll or will a drag suffice? //
 
 Di 11. _Advanced Techniques for the Modern Drummer, Section I Part B Eights_, ex 1-3; ex 4-7 (100-120 BPM); ex 4 w/Rumba Ostinato (100-120 BPM), right hand quarter notes + left hand orchestration. _16th note bass drum groove improvisation_, left hand 16ths + accents on beats 2 & 4, right hand 8ths. **2h 30min**. 
 
-::: {#paper}
+::: {#okt112022}
 :::
 
 ---

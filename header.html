@@ -1,21 +1,40 @@
-<link rel="shortcut icon" href="images/flowerBrush1.jpeg"/>
+<link rel="shortcut icon" href="images/flowerBrush1.jpeg" />
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/abcjs/6.1.3/abcjs-basic-min.min.js" type="text/javascript"></script>
 
-  <script type="text/javascript">
-    var abcString = "X: 1\n" +
-      "V: A1 clef=bass \n" +
-      "V: B1 clef=bass \n" +
-      "L:1/8\n" +
-      "K:C\n" +
-      "M: C|\n" +
-      "[V: A1]z2 E,E, z2 E,E, | z2 E,E, z2 E,E, :|\n" +
-      "[V: B1]!style=x!E,,3 [!style=x!E,,A,,] z2 A,,!style=x!E,, | z2 !style=x!E,,A,, !style=x!E,,2 A,,2 :|";
+<!-- okt 15 2022 -->
+<script type="text/javascript">
+  var okt1522 = "X: 2\n" +
+    "V: A1 clef=bass \n" +
+    "L:1/16\n" +
+    "K:C\n" +
+    "M: C\n" +
+    "[V: A1] E,E,E,E, E,E,E,E, (3E,E,E, (3E,E,E, (3E,E,E, (3E,E,E, | E,E,E,E, (3E,E,E, (3E,E,E,  E,E,E,E, (3E,E,E, (3E,E,E, :|\n" +
+    "w: R L R R L R L L R L R L R R L R L R L L | R L R R L R L R L L R L R R L R L R L L";
 
-    document.addEventListener("DOMContentLoaded", function () {
-      var visualOptions = {};
-      var visualObj = ABCJS.renderAbc("paper", abcString, visualOptions, {
-        responsive: 'resize'
-      });
-    })
-  </script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var visualOptions = {};
+    var visualObj = ABCJS.renderAbc("okt152022", okt1522, visualOptions, {
+      responsive: 'resize'
+    });
+  })
+</script>
+
+<!-- okt 11 2022 -->
+<script type="text/javascript">
+  var okt1122 = "X: 1\n" +
+    "V: A1 clef=bass \n" +
+    "V: B1 clef=bass \n" +
+    "L:1/8\n" +
+    "K:C\n" +
+    "M: C|\n" +
+    "[V: A1]z2 E,E, z2 E,E, | z2 E,E, z2 E,E, :|\n" +
+    "[V: B1]!style=x!E,,3 [!style=x!E,,A,,] z2 A,,!style=x!E,, | z2 !style=x!E,,A,, !style=x!E,,2 A,,2 :|";
+
+  document.addEventListener("DOMContentLoaded", function() {
+    var visualOptions = {};
+    var visualObj = ABCJS.renderAbc("okt112022", okt1122, visualOptions, {
+      responsive: 'resize'
+    });
+  })
+</script>

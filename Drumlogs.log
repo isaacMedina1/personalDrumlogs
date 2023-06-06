@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.26)  5 JUN 2023 14:01
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.26)  5 JUN 2023 19:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -857,23 +857,11 @@ File: images/flowerBrush1.jpeg Graphic file (type bmp)
 Kapitel 1.
 [7
 
-] [8] [9] [10]
-Overfull \hbox (290.25pt too wide) in paragraph at lines 283--283
-[]\TU/lmtt/m/n/10 [V: A1] E,E,E,E, E,E,E,E, (3E,E,E, (3E,E,E, (3E,E,E, (3E,E,E,
- | E,E,E,E, (3E,E,E, (3E,E,E,  E,E,E,E, (3E,E,E, (3E,E,E, :|[] 
- []
+] [8] [9] [10] [11] [12
 
-
-Overfull \hbox (96.0pt too wide) in paragraph at lines 283--283
-[]\TU/lmtt/m/n/10 w: R L R R L R L L R L R L R R L R L R L L | R L R R L R L R 
-L L R L R R L R L R L L[] 
- []
-
-[11] [12]
+]
 Kapitel 2.
-[13
-
-] [14]
+[13] [14]
 Kapitel 3.
 No file Drumlogs.bbl.
 [15
@@ -882,7 +870,7 @@ No file Drumlogs.bbl.
 Here is how much of TeX's memory you used:
  19749 strings out of 477696
  364612 string characters out of 5841667
- 848130 words of memory out of 5000000
+ 845130 words of memory out of 5000000
  40115 multiletter control sequences out of 15000+600000
  475710 words of font info for 81 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
