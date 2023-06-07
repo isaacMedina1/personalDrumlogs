@@ -15,7 +15,8 @@ github-repo: rstudio/bookdown-demo
 
 # {-}
 
-<img src="images/flowerBrush1.jpeg" width="60%" style="display: block; margin: auto;" />
+
+\begin{center}\includegraphics[width=0.6\linewidth]{images/flowerBrush1} \end{center}
 
 ##  Yes, i'm a drummer {-}
 
