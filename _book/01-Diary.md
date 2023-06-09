@@ -5,6 +5,8 @@ Diary {#Diary}
 
 ## Juni 2023 {-}
 
+Do 08. _Paradiddle Johnnie_, bars 1-16, shuffle feel, various orchestrations (toms, hi-hat, snare).
+
 So 04. _The Breakbeat Bible, E6: Syncopated Accents on the Snare_, ex 1-4 with inverted doubles. _Improv_.  **40 min**
 
 Fr 02. _Paradiddle Johnnie_, bars 1-16, shuffle feel, accents reinforced on Bassdrum, sticks and brushes. 
