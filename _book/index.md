@@ -1,14 +1,14 @@
 --- 
 title: "Drumlogs"
 author: "Isaac Medina"
-date: "2023-06-08"
+date: "2023-06-11"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 url: "https://drumlogs.netlify.app/index.html"
 cover-image: "images/flowerBrush1.jpeg"
 description: |
-  Drumlogs is written with bookdown package.
+  Isaac Medina's drum diary.
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---

@@ -8,7 +8,7 @@ bibliography: [book.bib, packages.bib]
 url: "https://drumlogs.netlify.app/index.html"
 cover-image: "images/flowerBrush1.jpeg"
 description: |
-  Drumlogs is written with bookdown package.
+  Isaac Medina's drum diary.
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
