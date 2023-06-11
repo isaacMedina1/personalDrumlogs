@@ -10,7 +10,7 @@ cover-image: "images/flowerBrush1.jpeg"
 description: |
   Isaac Medina's drum diary.
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: "isaacMedina1/personalDrumlogs"
 ---
 
 # {-}
