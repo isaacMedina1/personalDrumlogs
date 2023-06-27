@@ -5,6 +5,21 @@ Diary {#Diary}
 
 ## Juni 2023 {-}
 
+Mo 26. _The Art of Bop Drumming_, Comp Example 2, licks 5 & 6, playing triplets as 16th notes in groups of inverted doubles `e &` and placing 8ths on the last 16th `a`. Steady _tumbao_ on bass drum.
+
+::: {#jun262023}
+:::
+
+Di 20. _The Art of Bop Drumming_, some excercises over Rumba Clave. 
+
+So 18. _Concert_, Vi a Horacio "El Negro" Hernández en Jazzatlán. El timbalero tocó desde mi perspectiva en momentos muy fuerte y con frases forzadas. 
+
+Do 15. _Can't Take My Eyes Off You_, transcription till chorus. 
+
+Sa 17. _Paradiddle Johnnie_, bars 1-24 on practice pad, @ 70 BPM. 
+
+Di 13. _Coding_, practice of Jungle beats with Tidalcycles for the upcoming Algorave event. 
+
 Do 08. _Paradiddle Johnnie_, bars 1-16, shuffle feel, various orchestrations (toms, hi-hat, snare).
 
 So 04. _The Breakbeat Bible, E6: Syncopated Accents on the Snare_, ex 1-4 with inverted doubles. _Improv_.  **40 min**
