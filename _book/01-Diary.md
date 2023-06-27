@@ -5,7 +5,7 @@ Diary {#Diary}
 
 ## Juni 2023 {-}
 
-Mo 26. _The Art of Bop Drumming_, Comp Example 2, licks 5 & 6, playing triplets as 16th notes in groups of inverted doubles `e &` and placing 8ths on the last 16th `a`. Steady _tumbao_ on bass drum.
+Mo 26. _The Art of Bop Drumming_, Comp Example 2, licks 5 & 6, playing triplets as 16th notes in groups of inverted doubles `e &` and placing 8ths on the last 16th `a`. Steady _tumbao_ on bass drum. test
 
 ::: {#jun262023}
 :::
