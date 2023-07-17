@@ -5,6 +5,8 @@ Diary {#Diary}
 
 ## Juli 2023 {-}
 
+Sa 15. _Konzert_, recital de Leipzig. Todo resultó en orden y puntual. La batería fue amplificada con un micrófono de lápiz como overhead y un micrófono dinámico al bombo, Moongel en tarola, cobijas en bombo. Llegué media hora tarde, ensamblé la batería en 20 minutos con reacomodos.
+
 Mo 11. _The Art of Bop Drumming_, Comp Example 2, lick 9 with tumbao, inverted doubles and clave. 
 
 So 09. _The Breakbeat Bible_, Funky Drummer @ 80-84, 6-8 Minute reps. 
