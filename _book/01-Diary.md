@@ -3,6 +3,16 @@ Diary {#Diary}
 
 ---
 
+## Juli 2023 {-}
+
+Mo 11. _The Art of Bop Drumming_, Comp Example 2, lick 9 with tumbao, inverted doubles and clave. 
+
+So 09. _The Breakbeat Bible_, Funky Drummer @ 80-84, 6-8 Minute reps. 
+
+Sa 08. _Paradiddle Johnnie_, review till bar 32, practice pad. 
+
+Mi 05. _Gedanken_, ¿Cómo nos acercamos a una canción?: Instrumentación, Pulso, Ritmo, Estructura, Interpretación. 
+
 ## Juni 2023 {-}
 
 Mo 26. _The Art of Bop Drumming_, Comp Example 2, licks 5 & 6, playing triplets as 16th notes in groups of inverted doubles `e &` and placing 8ths on the last 16th `a`. Steady _tumbao_ on bass drum.
