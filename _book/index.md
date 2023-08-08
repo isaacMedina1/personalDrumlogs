@@ -1,7 +1,7 @@
 --- 
 title: "Drumlogs"
 author: "Isaac Medina"
-date: "2023-07-16"
+date: "2023-08-08"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]

@@ -5,6 +5,10 @@ Diary {#Diary}
 
 ## Juli 2023 {-}
 
+Fr 28. _Instrumentos_ Vendí mi atril de Hi-Hat, tenía el Gajate para tocar con clave, pero extraño mi pedal. He puesto otra configuración con el pedal FD-8 y un CY-5 que tenía guardados, por ahora me gusta.
+
+Do 20. _Rede_, hablando con mi padre, le contaba que, aunque hoy día existen muchos tutoriales para aprender a tocar ciertos ritmos y/o técnicas, aún falta describir con mayor atención los detalles, tales como postura, inclinación del tambor, alturas, tensión, peso, logitud de los dedos y brazos, flexibilidad. Esto ya se lo había comentado antes, pero no recuerdo cuando, por eso es importante este diario.
+
 Sa 15. _Konzert_, recital de Leipzig. Todo resultó en orden y puntual. La batería fue amplificada con un micrófono de lápiz como overhead y un micrófono dinámico al bombo, Moongel en tarola, cobijas en bombo. Llegué media hora tarde, ensamblé la batería en 20 minutos con reacomodos.
 
 Mo 11. _The Art of Bop Drumming_, Comp Example 2, lick 9 with tumbao, inverted doubles and clave. 
