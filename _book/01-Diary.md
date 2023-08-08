@@ -3,6 +3,10 @@ Diary {#Diary}
 
 ---
 
+## August 2023 {-}
+
+Di 08. Little impro on _The Breakbeat Bible, Breakbeat Transcriptions: Classic Breaks, Amen Brother_ @ 137 BPM.
+
 ## Juli 2023 {-}
 
 Fr 28. _Instrumentos_ Vendí mi atril de Hi-Hat, tenía el Gajate para tocar con clave, pero extraño mi pedal. He puesto otra configuración con el pedal FD-8 y un CY-5 que tenía guardados, por ahora me gusta.
