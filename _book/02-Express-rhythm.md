@@ -36,7 +36,7 @@ There is way more to it, so please visit the [mini-notation reference](https://t
 
 Now that these foundations are clear, let's express a rhythm mixing both counting / patterning systems:
 
-`1 e ~!2 . 2 & . ~!4 a . 4 ~ & a`
+`1 e ~!2 . 2 & . ~!3 a . 4 ~ & a`
 
 For the first beat, i know there is a sound on beat _1_ and _e_ but then 2 sixteenth note silences. After the dot, we advance to second quarter of the rhythm, there is sound on beat _2_ and its off-beat, here i don't need to express silence, hence there are only two elements, their subdivision is on eight notes. We advance to the third quarter of the rhythm, where only the last sixteenth note has sound. Lastly i will play a drum on beat _4_, its off-beat and the last sixteenth note again.
 
