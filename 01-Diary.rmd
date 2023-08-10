@@ -5,7 +5,9 @@ Diary {#Diary}
 
 ## August 2023 {-}
 
-Di 08. Little impro on _The Breakbeat Bible, Breakbeat Transcriptions: Classic Breaks, Amen Brother_ @ 137 BPM.
+Mi 09. _Paradiddle Johnie_, bars 1-24, Snare + accents on Jam Block.
+
+Di 08. Little impro on _The Breakbeat Bible, Breakbeat Transcriptions: Classic Breaks, Amen Brother_ @ 137 BPM. _Transcript_, from Rueben Spyker Reel.
 
 ## Juli 2023 {-}
 
