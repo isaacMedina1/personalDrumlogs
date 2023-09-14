@@ -3,6 +3,14 @@ Diary {#Diary}
 
 ---
 
+## September 2023 {-}
+
+Mi 14. _The Breakbeat Bible, E5: Open Hi-Hat Notes_, Eight Bar Phrase.
+
+Fr 08. _Little Sister, Queens Of The Stone Age_, transcription with Maschine + Musescore.
+
+Do 07. _Escritura_, creé el archivo **musescore-midiExport.mxprj** para transcribir canciones fácilmente usando Maschine y Musescore. Primero ejecuto el ritmo en Maschine o utilizo el secuenciador de pasos, después exporto y guardo el beat en MIDI. En Musescore importo el archivo MIDI, luego ingreso al menú _Ver > Mezclador_ y cambio los canales a _Set de percusión_. Por último selecciono el pentagrama que incluye el Bombo y la Tarola e intercambio las voces 1 a 2 usando el menú _Herramientas_, para copiar y pegar encima las notas de Hi-Hat. Todo esto se logra fácilmente trasponiendo en Maschine: Bombo (-24), Tarola (-20), Hi-Hat Cerrado (-18),  Tom Piso (-19), Tom Bajo (-15), Tom Medio (-13), Tom Alto (-12); otros platillos dejé sin mapear.
+
 ## August 2023 {-}
 
 Di 15.  _Drum Techniques of Led Zeppelin_, Black Dog, first lecture and Fill on Bar 32 practice.
