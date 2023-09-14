@@ -115,47 +115,19 @@ Isaac Medina
 \section*{September 2023}\label{september-2023}}
 \addcontentsline{toc}{section}{September 2023}
 
-Do 14. \emph{Escritura}, instalé el Plugin \href{https://blechtrottel.net/en/abc_impex.html}{ABC\_ImpExp} para Musescore. Hay algunos parámetros que me parecen sobrados al transformar un ritmo a notación ABC, aquí una pequeña lista.
+Do 14. \emph{Escritura}, instalé el Plugin \href{https://blechtrottel.net/en/abc_impex.html}{ABC\_ImpExp} para Musescore. Hay algunos parámetros que pueden omitirse al transformar un ritmo a notación ABC, aquí una pequeña tabla.
 
-to remove:
-
-\begin{itemize}
-\tightlist
-\item
-  T: Title (?)
-\item
-  L:1/4
-\item
-  I:percmap \^{}=g g 42 x
-\item
-  I:percmap \^{}g g 42 x
-\item
-  K:none
-\item
-  I:percmap A A 43 normal
-\item
-  I:percmap F F 36 normal
-\item
-  I:percmap c c 40 normal
-\item
-  I:percmap d d 45 normal
-\item
-  I:percmap e e 47 normal
-\end{itemize}
-
-to change:
-
-\begin{itemize}
-\tightlist
-\item
-  M: 4/4 -\textgreater{} M: C
-\item
-  V:1 perc nm=``Piano, Central Stage Kit - Pattern 1'' snm=``Pno.'' -\textgreater{} V:1 perc nm=``Drums'' style=x
-\item
-  V:2 perc -\textgreater{} V:2 perc style=normal
-\item
-  adjust voices (rhythm)
-\end{itemize}
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+to remove & to change \\
+\midrule
+\endhead
+T: Title (?) & M: 4/4 -\textgreater{} M: C \\
+L:1/4 & V:1 perc nm=``string'' -\textgreater{} V:1 perc nm=``string'' style=x \\
+K:none (after voices) & V:2 perc -\textgreater{} V:2 perc style=normal \\
+I:percmap A A 43 normal (all similar) & adjust voices (rhythm) \\
+\bottomrule
+\end{longtable}
 
 Mi 13. \emph{The Breakbeat Bible, E5: Open Hi-Hat Notes}, Eight Bar Phrase.
 

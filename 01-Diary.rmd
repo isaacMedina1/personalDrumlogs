@@ -5,27 +5,15 @@ Diary {#Diary}
 
 ## September 2023 {-}
 
-Do 14. _Escritura_, instalé el Plugin [ABC_ImpExp](https://blechtrottel.net/en/abc_impex.html) para Musescore. Hay algunos parámetros que me parecen sobrados al transformar un ritmo a notación ABC, aquí una pequeña lista. 
+Do 14. _Escritura_, instalé el Plugin [ABC_ImpExp](https://blechtrottel.net/en/abc_impex.html) para Musescore. Hay algunos parámetros que pueden omitirse al transformar un ritmo a notación ABC, aquí una pequeña tabla. 
 
-to remove:
+| to remove                             | to change                                            | 
+| ------------------------------------- | ---------------------------------------------------- |
+| T: Title (?)                          | M: 4/4 -> M: C                                       |
+| L:1/4                                 | V:1 perc nm="string" -> V:1 perc nm="string" style=x |
+| K:none (after voices)                 | V:2 perc -> V:2 perc style=normal                    |
+| I:percmap A A 43 normal (all similar) | adjust voices (rhythm)                               |
 
-* T: Title (?)
-* L:1/4
-* I:percmap ^=g g 42 x
-* I:percmap ^g g 42 x
-* K:none
-* I:percmap A A 43 normal
-* I:percmap F F 36 normal
-* I:percmap c c 40 normal
-* I:percmap d d 45 normal
-* I:percmap e e 47 normal
-
-to change: 
-
-* M: 4/4 -> M: C 
-* V:1 perc nm="Piano, Central Stage Kit - Pattern 1" snm="Pno." -> V:1 perc nm="Drums" style=x
-* V:2 perc -> V:2 perc style=normal
-* adjust voices (rhythm)
 
 Mi 13. _The Breakbeat Bible, E5: Open Hi-Hat Notes_, Eight Bar Phrase.
 
