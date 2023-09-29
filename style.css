@@ -155,3 +155,10 @@ code {
 .inline-figure {
   border: none;
 }
+
+span.mjx-chtml{
+  overflow-x: scroll;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+

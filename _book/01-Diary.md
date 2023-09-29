@@ -5,6 +5,13 @@ Diary {#Diary}
 
 ## September 2023 {-}
 
+Mi 27. _The Breakbeat Bible, E4: Two 16th Notes in a Row on the Kick_, Beats, ex 1-12 with routine as follows. Continue with Ride Cymbal when using the Hi-Hat Pedal. A = eight notes, B = quarter notes, C = off-beat. **30 min**
+
+$$Beat*8 \xrightarrow[ ]{to}\frac{Beat}{HH\ pedal\ ostinato\ (ABC)}*4 \xrightarrow[ ]{to}\frac{Two\ Bar\ Break\ (Main\ Groove + Beat)}{HH\ pedal\ ostinato\ (CBA)}*4 \xrightarrow[ ]{to} Beat*4$$
+
+
+Mo 25. _Accents and Rebounds_, Accented Eights, ex 15 on pad and orchestrated on Drums + Impro.
+
 Do 14. _Escritura_, instalé el Plugin [ABC_ImpExp](https://blechtrottel.net/en/abc_impex.html) para Musescore. Hay algunos parámetros que pueden omitirse al transformar un ritmo a notación ABC, aquí una pequeña tabla. 
 
 | to remove                             | to change                                            | 
