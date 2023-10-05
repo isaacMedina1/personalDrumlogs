@@ -3,13 +3,13 @@ Diary {#Diary}
 
 ---
 
-## 2023 {-}
+## 2023 {.unnumbered #diary-2023}
 
 ### Oktober {.unnumbered #oktober-2023}
 
 Mi 04. _Paraddidle Johnnie_, accents on open Hi-Hat, Bars 1-24. **30 min**
 
-### September 2023 {-}
+### September {.unnumbered #september-2023}
 
 Mi 27. _The Breakbeat Bible, E4: Two 16th Notes in a Row on the Kick_, Beats, ex 1-12 with routine as follows. Continue with Ride Cymbal when using the Hi-Hat Pedal. A = eight notes, B = quarter notes, C = off-beat. **30 min**
 
@@ -34,7 +34,7 @@ Fr 08. _Little Sister, Queens Of The Stone Age_, transcription with Maschine + M
 
 Do 07. _Escritura_, creé el archivo **musescore-midiExport.mxprj** para transcribir canciones fácilmente usando Maschine y Musescore. Primero ejecuto el ritmo en Maschine o utilizo el secuenciador de pasos, después exporto y guardo el beat en MIDI. En Musescore importo el archivo MIDI, luego ingreso al menú _Ver > Mezclador_ y cambio los canales a _Set de percusión_. Por último selecciono el pentagrama que incluye el Bombo y la Tarola e intercambio las voces 1 a 2 usando el menú _Herramientas_, para copiar y pegar encima las notas de Hi-Hat. Todo esto se logra fácilmente trasponiendo en Maschine: Bombo (-24), Tarola (-20), Hi-Hat Cerrado (-18),  Tom Piso (-19), Tom Bajo (-15), Tom Medio (-13), Tom Alto (-12); otros platillos dejé sin mapear.
 
-### August 2023 {-}
+### August {.unnumbered #august-2023}
 
 Di 15.  _Drum Techniques of Led Zeppelin_, Black Dog, first lecture and Fill on Bar 32 practice.
 
@@ -42,7 +42,7 @@ Mi 09. _Paradiddle Johnnie_, Bars 1-24, Snare + accents on Jam Block.
 
 Di 08. Little impro on _The Breakbeat Bible, Breakbeat Transcriptions: Classic Breaks, Amen Brother_ @ 137 BPM. _Transcript_, from Rueben Spyker Reel.
 
-### Juli 2023 {-}
+### Juli {.unnumbered #juli-2023}
 
 Fr 28. _Instrumentos_ Vendí mi atril de Hi-Hat, tenía el Gajate para tocar con clave, pero extraño mi pedal. He puesto otra configuración con el pedal FD-8 y un CY-5 que tenía guardados, por ahora me gusta.
 
@@ -58,7 +58,7 @@ Sa 08. _Paradiddle Johnnie_, review till Bar 32, practice pad.
 
 Mi 05. _Gedanken_, ¿Cómo nos acercamos a una canción?: Instrumentación, Pulso, Ritmo, Estructura, Interpretación. 
 
-### Juni 2023 {-}
+### Juni {.unnumbered #juni-2023}
 
 Mo 26. _The Art of Bop Drumming_, Comp Example 2, licks 5 & 6, playing triplets as 16th notes in groups of inverted doubles `e &` and placing 8ths on the last 16th `a`. Steady _tumbao_ on bass drum.
 
@@ -81,7 +81,7 @@ So 04. _The Breakbeat Bible, E6: Syncopated Accents on the Snare_, ex 1-4 with i
 
 Fr 02. _Paradiddle Johnnie_, Bars 1-16, shuffle feel, accents reinforced on Bassdrum, sticks and brushes. 
 
-### Mai 2023 {-}
+### Mai {.unnumbered #mai-2023}
 
 Mo 29. _The All American Drummer_, Solo 14 @ 50 and 60 BPM. _Take Me Out, Franz Ferdinand_, weiter bearbeitet, decided to use ligatures for open Hi-Hats as it is more explicit and _+_ markings can't be placed over silences.
 
@@ -103,13 +103,13 @@ Do 04. _Drum Techniques of Led Zeppelin_, Stairway to Heaven, first verse lectur
 
 Di 01. _Linear Jazz Drumming_, Cymbal Pattern 7, ex 1-8 as lecture, 4 repetitions per phrase. 
 
-### April 2023 {-}
+### April {.unnumbered #april-2023}
 
 Apr 18. _Percufest 2023_, clinics from Joel Enriquez, Rick Latham, Elohim Corona; versatility, time feel (balance), gear decisions. 
 
 Apr 17. _Rudiments_, Paradiddle (x4) + Double Paradiddle (x4) + Triple Paradiddle (x4) + Double Paradiddle (x4) + Paradiddle (x4, end on 4th beat and begin again with this hand); taken from _Aquiles Priester @ Percufest 2023_.
 
-### März 2023 {-}
+### März {.unnumbered #maerz-2023}
 
 Mär 25. _4 Way Coordination_, page 5, ex 1, AB, CD, AC, BD, AD, BC, practice pads.
 
@@ -121,7 +121,7 @@ Mär 10. _Linear Drum Fills. Sixteenth-Note Lessons_, Lesson 5, ex 1-9, orchestr
 
 Mär 01. _The All American Drummer_, Solo 9. _Paradidles_, hand to hand on snare drum with bassdrum displacements on beat, off-beat, eights, 1& + 2, 2& + 1.
 
-### Februar 2023 {-}
+### Februar {.unnumbered #februar-2023}
 
 Feb 28. _Linear Drum Fills. Sixteenth-Note Lessons_, Lesson 4, ex 1-9, orchestrated followed by groove improvisation, counting out loud (# e + a) slow.
 
@@ -142,7 +142,7 @@ Feb 04. _The All American Drummer_, Solo 9, first read.
 Feb 02. _The All American Drummer_, Solo 8, practice and video recording (Instagram Story).
 
 
-### Januar 2023 {-}
+### Januar {.unnumbered #januar-2023}
 
 Jan 30. _Drumathics_, publication of the transcript video from _Here Comes The Sun, The Beatles_.
 
@@ -154,9 +154,9 @@ Jan 02. _The Art of Bop Drumming_, Comp Example 2, ex 17 & 18 with Bembé Ostina
 
 Jan 01. _The Art of Bop Drumming_, Comp Example 2, ex 15 & 16 + 13 & 14 with Bembé Ostinato. 
 
-## 2022 {-}
+## 2022 {.unnumbered #diary-2022}
 
-### Dezember 2022 {-}
+### Dezember {.unnumbered #dezember-2022}
 
 Dez 30. _The Art of Bop Drumming_, Comp Example 2, ex 13 & 14 with Bembé Ostinato. 
 
@@ -179,7 +179,7 @@ Dez 14. _Love, Zoé_, transcripción hasta puente.
 Dez 01. _Kick it: A Social History of the Drum Kit_, Noisy women, immigrant culturas and Tin Pan Alley. 
  >How do you dismiss piano music? Describe it using adjectives normally reserved for drumming. Matt Brennan. 
 
-### November 2022 {-}
+### November {.unnumbered #november-2022}
 
 Nov 30. _Linear Jazz Drumming: Part One_, Cymbal Pattern 6, ex. 1-6, two Bar combinations.
 
