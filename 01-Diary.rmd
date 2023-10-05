@@ -3,6 +3,10 @@ Diary {#Diary}
 
 ---
 
+## Oktober 2023 {-}
+
+Mi 04. _Paraddidle Johnnie_, accents on open Hi-Hat, Bars 1-24. **30 min**
+
 ## September 2023 {-}
 
 Mi 27. _The Breakbeat Bible, E4: Two 16th Notes in a Row on the Kick_, Beats, ex 1-12 with routine as follows. Continue with Ride Cymbal when using the Hi-Hat Pedal. A = eight notes, B = quarter notes, C = off-beat. **30 min**
@@ -32,7 +36,7 @@ Do 07. _Escritura_, creé el archivo **musescore-midiExport.mxprj** para transcr
 
 Di 15.  _Drum Techniques of Led Zeppelin_, Black Dog, first lecture and Fill on Bar 32 practice.
 
-Mi 09. _Paradiddle Johnie_, bars 1-24, Snare + accents on Jam Block.
+Mi 09. _Paradiddle Johnnie_, Bars 1-24, Snare + accents on Jam Block.
 
 Di 08. Little impro on _The Breakbeat Bible, Breakbeat Transcriptions: Classic Breaks, Amen Brother_ @ 137 BPM. _Transcript_, from Rueben Spyker Reel.
 
@@ -48,7 +52,7 @@ Mo 11. _The Art of Bop Drumming_, Comp Example 2, lick 9 with tumbao, inverted d
 
 So 09. _The Breakbeat Bible_, Funky Drummer @ 80-84, 6-8 Minute reps. 
 
-Sa 08. _Paradiddle Johnnie_, review till bar 32, practice pad. 
+Sa 08. _Paradiddle Johnnie_, review till Bar 32, practice pad. 
 
 Mi 05. _Gedanken_, ¿Cómo nos acercamos a una canción?: Instrumentación, Pulso, Ritmo, Estructura, Interpretación. 
 
@@ -65,15 +69,15 @@ So 18. _Concert_, Vi a Horacio "El Negro" Hernández en Jazzatlán. El timbalero
 
 Do 15. _Can't Take My Eyes Off You_, transcription till chorus. 
 
-Sa 17. _Paradiddle Johnnie_, bars 1-24 on practice pad, @ 70 BPM. 
+Sa 17. _Paradiddle Johnnie_, Bars 1-24 on practice pad, @ 70 BPM. 
 
 Di 13. _Coding_, practice of Jungle beats with Tidalcycles for the upcoming Algorave event. 
 
-Do 08. _Paradiddle Johnnie_, bars 1-16, shuffle feel, various orchestrations (toms, hi-hat, snare).
+Do 08. _Paradiddle Johnnie_, Bars 1-16, shuffle feel, various orchestrations (toms, hi-hat, snare).
 
 So 04. _The Breakbeat Bible, E6: Syncopated Accents on the Snare_, ex 1-4 with inverted doubles. _Improv_.  **40 min**
 
-Fr 02. _Paradiddle Johnnie_, bars 1-16, shuffle feel, accents reinforced on Bassdrum, sticks and brushes. 
+Fr 02. _Paradiddle Johnnie_, Bars 1-16, shuffle feel, accents reinforced on Bassdrum, sticks and brushes. 
 
 ## Mai 2023 {-}
 
@@ -81,11 +85,11 @@ Mo 29. _The All American Drummer_, Solo 14 @ 50 and 60 BPM. _Take Me Out, Franz 
 
 Do 25. _The Breakbeat Bible, E6 Syncopated Accents on the Snare_, Beats 1-13 on lap.  
 
-So 21. _Drum Techniques of Led Zeppelin_, Stairway to Heaven, bar 50 @ 60 BPM, then lecture till bar 50 @ 88 BPM. _Drumathics_ publication of _Gunga Din, The Libertines_. _Drumlogs_, website update, chapter 2, Express rhythm.
+So 21. _Drum Techniques of Led Zeppelin_, Stairway to Heaven, Bar 50 @ 60 BPM, then lecture till Bar 50 @ 88 BPM. _Drumathics_ publication of _Gunga Din, The Libertines_. _Drumlogs_, website update, chapter 2, Express rhythm.
 
-Do 18. _Drum Techniques of Led Zeppelin_, Stairway to Heaven, bar 50 @ 60, 65, 70, 75, 80, 85, 90 BPM. `s*3 e y s*3 . 2 e s*3 a . 3 s*3 y a . 4 s ta y s ta`.
+Do 18. _Drum Techniques of Led Zeppelin_, Stairway to Heaven, Bar 50 @ 60, 65, 70, 75, 80, 85, 90 BPM. `s*3 e y s*3 . 2 e s*3 a . 3 s*3 y a . 4 s ta y s ta`.
 
-Mo 15. _The Breakbeat Bible, E3 Two 16th Notes in a Row on the Snare: 8-Bar Phrase_, one bar, two bars and four bar combinations within the same structure @ 98 BPM.  **30 min** Also Bar 2 & 5 with Swing Pattern @ 98 BPM. **5 min**
+Mo 15. _The Breakbeat Bible, E3 Two 16th Notes in a Row on the Snare: 8-Bar Phrase_, one Bar, two Bars and four Bar combinations within the same structure @ 98 BPM.  **30 min** Also Bar 2 & 5 with Swing Pattern @ 98 BPM. **5 min**
 
 Sa 13. _The Breakbeat Bible_, _E1_ Single 16th Note Subdivisions in the Snare: Beats (p.11), _E2_ Single 16th-Note Subdivisions on the Kick: Beats (p.18), _E3_ Two 16th Notes in a Row in the Snare: Beats (p.34), _E4_ Two 16th Notes in a Row on the Kick: Beats (p.43). **30 min**
 
@@ -107,7 +111,7 @@ Apr 17. _Rudiments_, Paradiddle (x4) + Double Paradiddle (x4) + Triple Paradiddl
 
 Mär 25. _4 Way Coordination_, page 5, ex 1, AB, CD, AC, BD, AD, BC, practice pads.
 
-Mär 14. _200 Paradiddle Exercises For Drums, Pt. 1 Single Paradiddle_, Single Flammed Mill, ex 44, stroke pattern: Down, Tap, Up, Tap. **15 min**.  _Drum Techniques of Led Zeppelin_, Good Times Bad Times, bars 1-16, Stairway To Heaven. 
+Mär 14. _200 Paradiddle Exercises For Drums, Pt. 1 Single Paradiddle_, Single Flammed Mill, ex 44, stroke pattern: Down, Tap, Up, Tap. **15 min**.  _Drum Techniques of Led Zeppelin_, Good Times Bad Times, Bars 1-16, Stairway To Heaven. 
 
 Mär 13. _200 Paradiddle Exercises For Drums, Pt. 1 Single Paradiddle_, ex 1-42. **60 min**. 
 
@@ -161,7 +165,7 @@ Dez 25. _The Art of Bop Drumming_, Comp Example 2, ex 3 & 4 with Bembé Ostinato
 
 Dez 24. _The Art of Bop Drumming_, Comp Example 2, ex 1 & 2 with Bembé Ostinato.
 
-Dez 20. _The All American Drummer_, Solo 7, bar 6 & 7, BPM 80-90, Hi-Hat off-beat. 
+Dez 20. _The All American Drummer_, Solo 7, Bar 6 & 7, BPM 80-90, Hi-Hat off-beat. 
 
 Dez 19. _The All American Drummer_, Solo 7, Hi-Hat off-beat, accents with Bassdrum. 
 
@@ -172,7 +176,7 @@ Dez 01. _Kick it: A Social History of the Drum Kit_, Noisy women, immigrant cult
 
 ## November 2022 {-}
 
-Nov 30. _Linear Jazz Drumming: Part One_, Cymbal Pattern 6, ex. 1-6, two bar combinations.
+Nov 30. _Linear Jazz Drumming: Part One_, Cymbal Pattern 6, ex. 1-6, two Bar combinations.
 
 Nov 25. _Iron Man, Black Sabbath_, Transcripción hasta segundo coro, _Speechless, Helmet_, Transcripción completa. _Linear Jazz Drumming: Part One_, Cymbal Pattern 5, ex 3-8.
 
@@ -210,12 +214,12 @@ Fr 21. Band rehearsal, stomachache.
 
 Mo 17. _Jon Beavis: War, Never Fight A Man With A Perm_. Which cymbals?, when this or that? Tom orchestrations + Singing.
 
-Sa 15. _Rudiments_, Paradiddle + Paraparadidle, 2 bars exercise (2 groups of 16th notes + 2 groups of 16th note triplets + 1 group after another), 60-68 (increments by 2 every 3 minutes), 5 min rest, 70-80 BPM (increments by 2 every 2 minutes). Band rehearsal.
+Sa 15. _Rudiments_, Paradiddle + Paraparadidle, 2 Bars exercise (2 groups of 16th notes + 2 groups of 16th note triplets + 1 group after another), 60-68 (increments by 2 every 3 minutes), 5 min rest, 70-80 BPM (increments by 2 every 2 minutes). Band rehearsal.
 
 ::: {#okt152022}
 :::
 
-Fr 14. _Rudiments_, Paradiddle + Paraparadidle, 1 bar exercise (2 groups of 16th notes + 2 groups of 16th note triplets), 80 BPM & 60 BPM, Hi-Hat on quarters and eights. **15 min**.
+Fr 14. _Rudiments_, Paradiddle + Paraparadidle, 1 Bar exercise (2 groups of 16th notes + 2 groups of 16th note triplets), 80 BPM & 60 BPM, Hi-Hat on quarters and eights. **15 min**.
 
 Do 13. _Semillero EP, Dengue Dengue Dengue_, improvisación sobre piezas con escobillas. **17 min**.
 
