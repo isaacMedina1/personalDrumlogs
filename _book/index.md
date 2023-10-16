@@ -1,7 +1,7 @@
 --- 
 title: "Drumlogs"
 author: "Isaac Medina"
-date: "2023-10-05"
+date: "2023-10-16"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -19,7 +19,7 @@ github-repo: "isaacMedina1/personalDrumlogs"
 
 ##  Yes, i'm a drummer {-}
 
-And this is my [Diary]. Well, sort of, mainly because there are times when logs just don't make it till here. Anyways, this webpage is an effort to keep you up to date on what i'm up to regarding drums and also a timeline to help me remember where i've been and my interests from day to day. 
+And this is my [Diary]. Well, sort of, because there are times when logs just don't make it till here. Anyways, this webpage is an effort to keep you updated on what i'm working on regarding drums and also a timeline to help me remember where i've been and my interests from day to day. 
 
 Yes, i'm a drummer but also teacher, synth freak, artist, friend, lover and son, that's why things here are personal, though at times it all may seem very technical. That's an advice to you while also a note for me, because the way i do things will probably not apply to many out there and won't necessarily make you/me the fastest, heaviest or even funkiest drummer, the activities recorded here are just a way of being.
 
