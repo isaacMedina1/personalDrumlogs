@@ -9,7 +9,8 @@ Diary {#Diary}
 
 <strudel-repl id="strudel-test">
   <!--
-s("bd sd")
+s("bd sd,hh!4").bank("RolandTR606")
+.gain(0.7)
     -->
 </strudel-repl>
 
