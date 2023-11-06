@@ -5,6 +5,14 @@ Diary {#Diary}
 
 ## 2023 {.unnumbered #diary-2023}
 
+### November {.unnumbered #november-2023}
+
+<strudel-repl id="strudel-test">
+  <!--
+s("bd sd")
+    -->
+</strudel-repl>
+
 ### Oktober {.unnumbered #oktober-2023}
 
 Mi 04. _Paraddidle Johnnie_, accents on open Hi-Hat, Bars 1-24. **30 min**

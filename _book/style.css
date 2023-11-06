@@ -162,3 +162,10 @@ span.mjx-chtml{
   padding-bottom: 1em;
 }
 
+/*resize for Strudel*/
+
+iframe{
+  width: 90% !important;
+  height: 20% !important;
+}
+
