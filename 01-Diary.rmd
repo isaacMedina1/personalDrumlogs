@@ -9,7 +9,11 @@ Diary {#Diary}
 
 <strudel-repl id="strudel-test">
   <!--
-s("<[bd!2] [sd:1 ~!2 sd:3] [~ sd:3 bd sd:3] [sd:1 bd sd:3!2]>,hh!4").bank("RolandTR808")
+s(`<[bd!2]
+[sd:1 ~!2 sd:3]
+[~ sd:3 bd sd:3]
+[sd:1 bd sd:3!2]>,
+hh!4`).bank("RolandTR808")
 .fast(2)
 .gain(0.8)
     -->
