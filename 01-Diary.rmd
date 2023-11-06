@@ -7,8 +7,11 @@ Diary {#Diary}
 
 ### November {.unnumbered #november-2023}
 
+Mo 06. Added Strudel to the Diary Section, first example wrote based on _Funky Drummer, James Brown, Clyde Stubblefield on Drums_. Link on how this was made **[at this entry on the Tidal Club Forum](https://club.tidalcycles.org/t/drum-diary/4931?u=isaacmedina).**
+
 <strudel-repl id="strudel-test">
   <!--
+  /*Based on Funky Drummer (Clyde Stubblefield)*/
 s(`<[bd!2]
 [sd:1 ~!2 sd:3]
 [~ sd:3 bd sd:3]
