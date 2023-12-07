@@ -5,7 +5,31 @@ Diary {#Diary}
 
 ## 2023 {.unnumbered #diary-2023}
 
+Do 07.  Impro over _The Hit, Chip Wickham_
+
+<strudel-repl id="strudel-wickham">
+  <!--
+  /*Based on The Hit, Chip Wickham*/
+s(`<[hh]
+[[hh,rim] ~ hh]
+[hh]
+[hh ~ hh]
+[rim ~ hh]
+[hh]>`).bank("RolandTR808")
+.fast(3)
+.gain(0.8)
+    -->
+</strudel-repl>
+
+Di 05. _The Breakbeat Bible, E1: Single 16th-Note Subdivisions on the Snare_, ex 1-13 each one reps and w/suggested phrase (two bar phrasing) @ 90 BMP. **30 min**. Playing cures my soul. 
+
 ### November {.unnumbered #november-2023}
+
+Mi 22. Ensayo con Mondarko, consejos creativos sobre rítmica y armonía; seguir lo que requiere la canción, elaborar sobre ideas, tensión y resolución.
+
+Di 14. _Paradiddle Johnnie_, transcript in Maschine.
+
+Fr 10. Got myself a Roland TR-06 as Geburtstagsgeschenk! 
 
 Mo 06. Added Strudel to the Diary Section, first example wrote based on _Funky Drummer, James Brown, Clyde Stubblefield on Drums_. Link on how this was made **[at this entry on the Tidal Club Forum](https://club.tidalcycles.org/t/drum-diary/4931?u=isaacmedina).**
 

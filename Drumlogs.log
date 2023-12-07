@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.26)  6 NOV 2023 17:30
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.26)  7 DEC 2023 14:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -855,24 +855,24 @@ File: images/flowerBrush1.jpeg Graphic file (type bmp)
 <images/flowerBrush1.jpeg>
 [5] [6]
 Kapitel 1.
+[7
 
-Overfull \hbox (93.11331pt too wide) detected at line 136
+]
+Overfull \hbox (93.11331pt too wide) detected at line 146
 [][][][] [] [] [] [] [] [] [] [] [] [] [] [][][][] [] []
  []
 
 
-Overfull \hbox (82.13004pt too wide) in alignment at lines 142--146
+Overfull \hbox (82.13004pt too wide) in alignment at lines 152--156
  [] [] 
  []
 
 
-Overfull \hbox (82.13004pt too wide) in alignment at lines 146--152
+Overfull \hbox (82.13004pt too wide) in alignment at lines 156--162
  [] [] 
  []
 
-[7
-
-] [8] [9] [10] [11] [12] [13] [14]
+[8] [9] [10] [11] [12] [13] [14]
 Kapitel 2.
 [15
 
@@ -885,7 +885,7 @@ No file Drumlogs.bbl.
 Here is how much of TeX's memory you used:
  19753 strings out of 477696
  364738 string characters out of 5841667
- 846344 words of memory out of 5000000
+ 848345 words of memory out of 5000000
  40118 multiletter control sequences out of 15000+600000
  475718 words of font info for 82 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
