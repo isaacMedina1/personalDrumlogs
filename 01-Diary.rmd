@@ -7,13 +7,26 @@ Diary {#Diary}
 
 ### Mai {.unnumbered #mai-2024}
 
-Sun 19. Trying different ostinatos for jazz comping (comp ex. `~ ~ s . ~ ~ s . ~ ~ s . ~ s s`). Use the _strudel_ window to transcribe the rhythms on the table.
+So 19. Trying different ostinatos for jazz comping. 
 
 <strudel-repl id="ride-transp">
-  <!--/*transpositions of ride pattern for jazz coordination developement*/
-s(`<[hh ~ ~] [hh ~ hh] [hh ~ ~] [hh ~ hh]>`).bank("RolandTR808")
-.fast(3)
-.gain(0.8)
+  <!--
+/*transpositions of ride pattern for jazz coordination developement*/
+p1: s(`<[hh ~ ~] [hh ~ hh] [hh ~ ~] [hh ~ hh]>`).bank("RolandTR808").fast(3)
+//p2: s(`<[hh hh ~] [~ hh ~] [hh hh ~] [~ hh ~]>`).bank("RolandTR808").fast(3)
+//p3: s(`<[~ hh hh] [~ ~ hh] [~ hh hh] [~ ~ hh]>`).bank("RolandTR808").fast(3)
+//p4: s(`<[hh ~ hh] [hh ~ ~] [hh ~ hh] [hh ~ ~]>`).bank("RolandTR808").fast(3)
+//p5: s(`<[~ hh ~] [hh hh ~] [~ hh ~] [hh hh ~]>`).bank("RolandTR808").fast(3)
+//p6: s(`<[~ ~ hh] [~ hh hh] [~ ~ hh] [~ hh hh]>`).bank("RolandTR808").fast(3)
+//
+twoFour: s(`<[~ ~ ~] [rim ~ ~] [~ ~ ~] [rim ~ ~]>`)
+  .bank("RolandTR808")
+  .fast(3)
+//
+comp: s(`<[~ ~ sd:1] [~ ~ sd:1] [~ ~ sd:1] [~ sd:1 sd:1]>`)
+  .bank("RolandTR808")
+  .fast(3)
+  .gain(0.4)
   -->
   </strudel-repl>
 

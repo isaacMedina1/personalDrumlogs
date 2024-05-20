@@ -6,16 +6,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>1 Diary | Drumlogs</title>
 <meta name="author" content="Isaac Medina">
-<meta name="description" content="2024  Mai Sun 19. Trying different ostinatos for jazz comping (comp ex. ~ ~ s . ~ ~ s . ~ ~ s . ~ s s). Use the strudel window to transcribe the rhythms on the table. 1 2 3 4 x ~ ~ x ~ x x ~ ~ x ~...">
+<meta name="description" content="2024  Mai So 19. Trying different ostinatos for jazz comping. 1 2 3 4 x ~ ~ x ~ x x ~ ~ x ~ x x x ~ ~ x ~ x x ~ ~ x ~ ~ x x ~ ~ x ~ x x ~ ~ x x ~ x x ~ ~ x ~ x x ~ ~ ~ x ~ x x ~ ~ x ~ x x ~ ~ ~ x...">
 <meta name="generator" content="bookdown 0.39 with bs4_book()">
 <meta property="og:title" content="1 Diary | Drumlogs">
 <meta property="og:type" content="book">
 <meta property="og:url" content="https://drumlogs.netlify.app/index.html/Diary.html">
 <meta property="og:image" content="https://drumlogs.netlify.app/index.html/images/flowerBrush1.jpeg">
-<meta property="og:description" content="2024  Mai Sun 19. Trying different ostinatos for jazz comping (comp ex. ~ ~ s . ~ ~ s . ~ ~ s . ~ s s). Use the strudel window to transcribe the rhythms on the table. 1 2 3 4 x ~ ~ x ~ x x ~ ~ x ~...">
+<meta property="og:description" content="2024  Mai So 19. Trying different ostinatos for jazz comping. 1 2 3 4 x ~ ~ x ~ x x ~ ~ x ~ x x x ~ ~ x ~ x x ~ ~ x ~ ~ x x ~ ~ x ~ x x ~ ~ x x ~ x x ~ ~ x ~ x x ~ ~ ~ x ~ x x ~ ~ x ~ x x ~ ~ ~ x...">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="1 Diary | Drumlogs">
-<meta name="twitter:description" content="2024  Mai Sun 19. Trying different ostinatos for jazz comping (comp ex. ~ ~ s . ~ ~ s . ~ ~ s . ~ s s). Use the strudel window to transcribe the rhythms on the table. 1 2 3 4 x ~ ~ x ~ x x ~ ~ x ~...">
+<meta name="twitter:description" content="2024  Mai So 19. Trying different ostinatos for jazz comping. 1 2 3 4 x ~ ~ x ~ x x ~ ~ x ~ x x x ~ ~ x ~ x x ~ ~ x ~ ~ x x ~ ~ x ~ x x ~ ~ x x ~ x x ~ ~ x ~ x x ~ ~ ~ x ~ x x ~ ~ x ~ x x ~ ~ ~ x...">
 <meta name="twitter:image" content="https://drumlogs.netlify.app/index.html/images/flowerBrush1.jpeg">
 <!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
@@ -120,11 +120,24 @@
 <div id="mai-2024" class="section level3 unnumbered">
 <h3>Mai<a class="anchor" aria-label="anchor" href="#mai-2024"><i class="fas fa-link"></i></a>
 </h3>
-<p>Sun 19. Trying different ostinatos for jazz comping (comp ex. <code>~ ~ s . ~ ~ s . ~ ~ s . ~ s s</code>). Use the <em>strudel</em> window to transcribe the rhythms on the table.</p>
-<p><strudel-repl id="ride-transp"><!--/*transpositions of ride pattern for jazz coordination developement*/
-s(`<[hh ~ ~] [hh ~ hh] [hh ~ ~] [hh ~ hh]>`).bank("RolandTR808")
-.fast(3)
-.gain(0.8)
+<p>So 19. Trying different ostinatos for jazz comping.</p>
+<p><strudel-repl id="ride-transp"><!--
+/*transpositions of ride pattern for jazz coordination developement*/
+p1: s(`<[hh ~ ~] [hh ~ hh] [hh ~ ~] [hh ~ hh]>`).bank("RolandTR808").fast(3)
+//p2: s(`<[hh hh ~] [~ hh ~] [hh hh ~] [~ hh ~]>`).bank("RolandTR808").fast(3)
+//p3: s(`<[~ hh hh] [~ ~ hh] [~ hh hh] [~ ~ hh]>`).bank("RolandTR808").fast(3)
+//p4: s(`<[hh ~ hh] [hh ~ ~] [hh ~ hh] [hh ~ ~]>`).bank("RolandTR808").fast(3)
+//p5: s(`<[~ hh ~] [hh hh ~] [~ hh ~] [hh hh ~]>`).bank("RolandTR808").fast(3)
+//p6: s(`<[~ ~ hh] [~ hh hh] [~ ~ hh] [~ hh hh]>`).bank("RolandTR808").fast(3)
+//
+twoFour: s(`<[~ ~ ~] [rim ~ ~] [~ ~ ~] [rim ~ ~]>`)
+  .bank("RolandTR808")
+  .fast(3)
+//
+comp: s(`<[~ ~ sd:1] [~ ~ sd:1] [~ ~ sd:1] [~ sd:1 sd:1]>`)
+  .bank("RolandTR808")
+  .fast(3)
+  .gain(0.4)
   --></strudel-repl></p>
 <div class="inline-table"><table class="table table-sm">
 <thead><tr class="header">
@@ -450,7 +463,7 @@ hh!4`).bank("RolandTR808")
 <footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>Drumlogs</strong>" was written by Isaac Medina. It was last built on 2024-05-19.</p>
+    <p>"<strong>Drumlogs</strong>" was written by Isaac Medina. It was last built on 2024-05-20.</p>
   </div>
 
   <div class="col-12 col-md-6 mt-3">
